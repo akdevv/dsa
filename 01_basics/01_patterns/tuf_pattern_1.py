@@ -1,9 +1,21 @@
-# TUF Pattern 1
+# 0001 - Pattern 1
 # https://takeuforward.org/plus/dsa/problems/pattern-1
-# pattern: solid N×N rectangle of stars
+# pattern: nested loops
 # peeked: no
-# brute:   O(N²) - print N rows of N stars
-# optimal: O(N²) time, O(1) space - no better possible
+# brute:   O(n^2) - nested loops
+# optimal: O(n^2) time, O(1) space - same, no better possible
+#
+# problem:
+#   given an integer n, recreate the pattern below for any value of n.
+#   for n=5:
+#
+#   *****
+#   *****
+#   *****
+#   *****
+#   *****
+#
+#   print the pattern in the function given to you.
 
 def pattern(n: int):
     for _ in range(n):

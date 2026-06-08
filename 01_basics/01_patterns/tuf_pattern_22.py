@@ -1,7 +1,7 @@
 # 0022 - Pattern 22
 # https://takeuforward.org/plus/dsa/problems/pattern-22
 # pattern: nested loops
-# peeked: no
+# peeked: hint
 # brute:   O(n^2) - compute min distance from each border
 # optimal: O(n^2) time, O(1) space - same, no better possible
 #

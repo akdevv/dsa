@@ -28,19 +28,20 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 **Problems:**
 
 - Basic Maths (7): count_digits, reverse_integer, palindrome_number, armstrong_number, divisors_of_a_number ⚠️, gcd_of_two_numbers, check_prime_number
-- Recursion (4): factorial, print_name_n_times, sum_of_first_n_natural_numbers, reverse_an_array
+- Recursion (3): factorial, print_name_n_times, sum_of_first_n_natural_numbers
   **Notes:** Solid day — crushed target. `divisors_of_a_number` peeked hint → re-solve cold tomorrow. Also updated `_solution_template.py` with problem/example section. ⚠️ Pattern 22 (Day 1) retroactively marked `peeked: hint` — re-solve cold.
 
   ***
 
 ### 2026-06-09 — Day 3
 
-**Topic:**
-**Status:**
-**Solved:** 0/8
+**Topic:** Basics — Recursion (continued)
+**Status:** ⚡ min
+**Solved:** 2/8
 **Problems:**
 
-- **Notes:**
+- Recursion (3): reverse_an_array ⚠️, valid_palindrome (LC 125), fibonacci_number (LC 509)
+  **Notes:** Light day. `reverse_an_array` peeked → re-solve cold tomorrow. Other two solved clean.
 
   ***
 

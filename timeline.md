@@ -37,7 +37,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
 **Topic:** Basics — Recursion (continued)
 **Status:** ⚡ min
-**Solved:** 2/8
+**Solved:** 3/8
 **Problems:**
 
 - Recursion (3): reverse_an_array ⚠️, valid_palindrome (LC 125), fibonacci_number (LC 509)

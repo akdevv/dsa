@@ -8,7 +8,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
 ## Week 1 — Basics · Sorting · Arrays
 
-### 2026-06-07 — Day 1
+### 07 June — Day 1
 
 **Topic:** Basics — Patterns (nested loops)
 **Status:** ✅ full
@@ -20,7 +20,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
 ---
 
-### 2026-06-08 — Day 2
+### 08 June — Day 2
 
 **Topic:** Basics — Basic Maths + Recursion (intro)
 **Status:** ✅ full
@@ -33,7 +33,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-09 — Day 3
+### 09 June — Day 3
 
 **Topic:** Basics — Recursion (continued)
 **Status:** ⚡ min
@@ -45,7 +45,19 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-10 — Day 4
+### 10 June — Day 4
+
+**Topic:** Basics — Hashing
+**Status:** ⚡ min
+**Solved:** 1/8
+**Problems:**
+
+- Hashing (1): tuf_count_frequency_of_each_element
+- **Notes:** Started hashing section. Clean solve, no peek. Removed misplaced 1838 (sliding window, not hashing). Updated README with freq array vs hash map distinction.
+
+  ***
+
+### 11 June — Day 5
 
 **Topic:**
 **Status:**
@@ -56,7 +68,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-11 — Day 5
+### 12 June — Day 6
 
 **Topic:**
 **Status:**
@@ -67,18 +79,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-12 — Day 6
-
-**Topic:**
-**Status:**
-**Solved:** 0/8
-**Problems:**
-
-- **Notes:**
-
-  ***
-
-### 2026-06-13 — Day 7
+### 13 June — Day 7
 
 **Topic:**
 **Status:**
@@ -91,7 +92,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
 ## Week 2 — Arrays · Binary Search
 
-### 2026-06-14 — Day 8
+### 14 June — Day 8
 
 **Topic:**
 **Status:**
@@ -102,7 +103,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-15 — Day 9
+### 15 June — Day 9
 
 **Topic:**
 **Status:**
@@ -113,7 +114,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-16 — Day 10
+### 16 June — Day 10
 
 **Topic:**
 **Status:**
@@ -124,7 +125,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-17 — Day 11
+### 17 June — Day 11
 
 **Topic:**
 **Status:**
@@ -135,7 +136,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-18 — Day 12
+### 18 June — Day 12
 
 **Topic:**
 **Status:**
@@ -146,7 +147,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-19 — Day 13
+### 19 June — Day 13
 
 **Topic:**
 **Status:**
@@ -157,7 +158,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-20 — Day 14
+### 20 June — Day 14
 
 **Topic:**
 **Status:**
@@ -170,7 +171,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
 ## Week 3 — Binary Search · Strings · Linked List
 
-### 2026-06-21 — Day 15
+### 21 June — Day 15
 
 **Topic:**
 **Status:**
@@ -181,7 +182,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-22 — Day 16
+### 22 June — Day 16
 
 **Topic:**
 **Status:**
@@ -192,7 +193,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-23 — Day 17
+### 23 June — Day 17
 
 **Topic:**
 **Status:**
@@ -203,7 +204,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-24 — Day 18
+### 24 June — Day 18
 
 **Topic:**
 **Status:**
@@ -214,7 +215,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-25 — Day 19
+### 25 June — Day 19
 
 **Topic:**
 **Status:**
@@ -225,7 +226,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-26 — Day 20
+### 26 June — Day 20
 
 **Topic:**
 **Status:**
@@ -236,7 +237,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-27 — Day 21
+### 27 June — Day 21
 
 **Topic:**
 **Status:**
@@ -249,7 +250,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
 ## Week 4 — Linked List · Recursion · Bit Manipulation
 
-### 2026-06-28 — Day 22
+### 28 June — Day 22
 
 **Topic:**
 **Status:**
@@ -260,7 +261,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-29 — Day 23
+### 29 June — Day 23
 
 **Topic:**
 **Status:**
@@ -271,7 +272,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-06-30 — Day 24
+### 30 June — Day 24
 
 **Topic:**
 **Status:**
@@ -282,7 +283,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-01 — Day 25
+### 01 July — Day 25
 
 **Topic:**
 **Status:**
@@ -293,7 +294,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-02 — Day 26
+### 02 July — Day 26
 
 **Topic:**
 **Status:**
@@ -304,7 +305,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-03 — Day 27
+### 03 July — Day 27
 
 **Topic:**
 **Status:**
@@ -315,7 +316,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-04 — Day 28
+### 04 July — Day 28
 
 **Topic:**
 **Status:**
@@ -328,7 +329,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
 ## Week 5 — Stack/Queue · Sliding Window · Heaps
 
-### 2026-07-05 — Day 29
+### 05 July — Day 29
 
 **Topic:**
 **Status:**
@@ -339,7 +340,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-06 — Day 30
+### 06 July — Day 30
 
 **Topic:**
 **Status:**
@@ -350,7 +351,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-07 — Day 31
+### 07 July — Day 31
 
 **Topic:**
 **Status:**
@@ -361,7 +362,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-08 — Day 32
+### 08 July — Day 32
 
 **Topic:**
 **Status:**
@@ -372,7 +373,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-09 — Day 33
+### 09 July — Day 33
 
 **Topic:**
 **Status:**
@@ -383,7 +384,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-10 — Day 34
+### 10 July — Day 34
 
 **Topic:**
 **Status:**
@@ -394,7 +395,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-11 — Day 35
+### 11 July — Day 35
 
 **Topic:**
 **Status:**
@@ -407,7 +408,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
 ## Week 6 — Greedy · Binary Trees
 
-### 2026-07-12 — Day 36
+### 12 July — Day 36
 
 **Topic:**
 **Status:**
@@ -418,7 +419,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-13 — Day 37
+### 13 July — Day 37
 
 **Topic:**
 **Status:**
@@ -429,7 +430,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-14 — Day 38
+### 14 July — Day 38
 
 **Topic:**
 **Status:**
@@ -440,7 +441,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-15 — Day 39
+### 15 July — Day 39
 
 **Topic:**
 **Status:**
@@ -451,7 +452,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-16 — Day 40
+### 16 July — Day 40
 
 **Topic:**
 **Status:**
@@ -462,7 +463,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-17 — Day 41
+### 17 July — Day 41
 
 **Topic:**
 **Status:**
@@ -473,7 +474,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-18 — Day 42
+### 18 July — Day 42
 
 **Topic:**
 **Status:**
@@ -486,7 +487,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
 ## Week 7 — Trees · BST · Graphs
 
-### 2026-07-19 — Day 43
+### 19 July — Day 43
 
 **Topic:**
 **Status:**
@@ -497,7 +498,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-20 — Day 44
+### 20 July — Day 44
 
 **Topic:**
 **Status:**
@@ -508,7 +509,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-21 — Day 45
+### 21 July — Day 45
 
 **Topic:**
 **Status:**
@@ -519,7 +520,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-22 — Day 46
+### 22 July — Day 46
 
 **Topic:**
 **Status:**
@@ -530,7 +531,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-23 — Day 47
+### 23 July — Day 47
 
 **Topic:**
 **Status:**
@@ -541,7 +542,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-24 — Day 48
+### 24 July — Day 48
 
 **Topic:**
 **Status:**
@@ -552,7 +553,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-25 — Day 49
+### 25 July — Day 49
 
 **Topic:**
 **Status:**
@@ -565,7 +566,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
 ## Week 8 — Graphs · DP
 
-### 2026-07-26 — Day 50
+### 26 July — Day 50
 
 **Topic:**
 **Status:**
@@ -576,7 +577,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-27 — Day 51
+### 27 July — Day 51
 
 **Topic:**
 **Status:**
@@ -587,7 +588,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-28 — Day 52
+### 28 July — Day 52
 
 **Topic:**
 **Status:**
@@ -598,7 +599,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-29 — Day 53
+### 29 July — Day 53
 
 **Topic:**
 **Status:**
@@ -609,7 +610,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-30 — Day 54
+### 30 July — Day 54
 
 **Topic:**
 **Status:**
@@ -620,7 +621,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-07-31 — Day 55
+### 31 July — Day 55
 
 **Topic:**
 **Status:**
@@ -631,7 +632,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-08-01 — Day 56
+### 01 August — Day 56
 
 **Topic:**
 **Status:**
@@ -644,7 +645,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
 ## Week 9 — DP · Tries · Advanced Strings
 
-### 2026-08-02 — Day 57
+### 02 August — Day 57
 
 **Topic:**
 **Status:**
@@ -655,7 +656,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-08-03 — Day 58
+### 03 August — Day 58
 
 **Topic:**
 **Status:**
@@ -666,7 +667,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-08-04 — Day 59
+### 04 August — Day 59
 
 **Topic:**
 **Status:**
@@ -677,7 +678,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-08-05 — Day 60
+### 05 August — Day 60
 
 **Topic:**
 **Status:**
@@ -688,7 +689,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-08-06 — Day 61
+### 06 August — Day 61
 
 **Topic:**
 **Status:**
@@ -699,7 +700,7 @@ Status key: `✅ full` · `⚡ min` · `⏭ skip`
 
   ***
 
-### 2026-08-07 — Day 62 👑
+### 07 August — Day 62 👑
 
 **Topic:**
 **Status:**

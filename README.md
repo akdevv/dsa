@@ -6,7 +6,7 @@
 
 Working through [Striver's A2Z sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z) (474 problems) in Python. This is attempt two — I bailed on the first one after a week.
 
-> I quit after day 5. Last solved 11 Jun, then 40 days dry. Now I'm back — **5 problems a day, 5 days a week.** Only thing to remember: never miss two days in a row. That's the only rule.
+> I quit after day 5. Last solved 11 Jun, then 41 days dry. Now I'm back — **5 problems a day, 5 days a week.** Only thing to remember: never miss two days in a row. That's the only rule.
 
 ## 📊 Progress
 
@@ -17,7 +17,7 @@ Working through [Striver's A2Z sheet](https://takeuforward.org/dsa/strivers-a2z-
 ██░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-⚠️ 💤 **streak broken** · longest **3** · **40 days** since last solve (11 Jun)
+⚠️ 💤 **streak broken** · longest **3** · **41 days** since last solve (11 Jun)
 
 ```
         M T W T F S S
@@ -59,10 +59,10 @@ hashing
 **Day 5 · 11 Jun · 4 solved**\
 sorting — selection, bubble, insertion, merge
 
-**quit · 40 days · 0 solved**\
+**quit · 41 days · 0 solved**\
 the gap. don't add a second one.
 
-**Day 6 · 21 Jul · back**\
+**Day 6 · 22 Jul · back**\
 restart — clear the peeked backlog first
 
 </details>

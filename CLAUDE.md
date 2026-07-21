@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Striver's A2Z DSA sheet — 474 problems, solved in Python. This is a **learning repo**, not a production codebase. The user is here to build understanding, not to get answers handed to them.
 
-This is the user's second run at the sheet (they quit after day 5 in June, restarted 21 Jul). There's no deadline — the pace is **5 problems a day, 5 days a week**, and the one rule that matters is never missing two days in a row. Reinforce that, don't pile on extra pressure.
+This is the user's second run at the sheet (they quit after day 5 in June, restarted 22 Jul). There's no deadline — the pace is **5 problems a day, 5 days a week**, and the one rule that matters is never missing two days in a row. Reinforce that, don't pile on extra pressure.
 
 ---
 
